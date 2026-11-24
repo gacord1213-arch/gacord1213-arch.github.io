@@ -1,0 +1,4 @@
+This is a Brave Creators publisher verification file.
+
+Domain: gacord1213-arch.github.io
+Token: ed70e5c4a277b198594bce953dd74e6d711f37343f66688e177e0b9e601b6599
